@@ -1,0 +1,458 @@
+#EXTINF:0 tvg-name="Матч! HD",Матч ТВ
+http://192.168.118.1:3128/udp/239.255.10.196:5500
+#EXTINF:0 tvg-name="Матч! Футбол 1 HD",Матч! Футбол 1
+http://192.168.118.1:3128/udp/239.255.10.76:5500
+#EXTINF:0 tvg-name="Матч! Футбол 2 HD",Матч! Футбол 2
+http://192.168.118.1:3128/udp/239.255.10.194:5500
+#EXTINF:0 tvg-name="Матч! Футбол 3 HD",Матч! Футбол 3
+http://192.168.118.1:3128/udp/239.255.10.179:5500
+#EXTINF:0 tvg-name="Наш Футбол HD",Наш футбол
+http://192.168.118.1:3128/udp/239.255.10.74:5500
+#EXTINF:0 tvg-name="Матч! Наш Спорт",Матч! Наш спорт
+http://192.168.118.1:3128/udp/239.255.10.83:5500
+#EXTINF:0 tvg-name="Матч! Арена",Матч! Арена
+http://192.168.118.1:3128/udp/239.255.10.137:5500
+#EXTINF:0 tvg-name="Матч! Игра",Матч! Игра
+http://192.168.118.1:3128/udp/239.255.10.31:5500
+#EXTINF:0 tvg-name="Боец",Матч! Боец
+http://192.168.118.1:3128/udp/239.255.10.69:5500
+#EXTINF:0 tvg-name="Eurosport 1",Eurosport 1
+http://192.168.118.1:3128/udp/239.255.10.81:5500
+#EXTINF:0 tvg-name="Eurosport 2",Eurosport 2
+http://192.168.118.1:3128/udp/233.99.64.166:1234
+#EXTINF:0 tvg-name="Русский Экстрим",Русский Экстрим
+http://192.168.118.1:3128/udp/233.99.64.173:1234
+#EXTINF:0 tvg-name="Авто Плюс",Авто Плюс
+http://192.168.118.1:3128/udp/239.255.10.71:5500
+#EXTINF:0 tvg-name="Авто24 HD",Авто24
+http://192.168.118.1:3128/udp/233.99.64.167:1234
+#EXTINF:0 tvg-name="Motorsport TV",Motorsport
+http://192.168.118.1:3128/udp/233.99.64.176:1234
+#EXTINF:0 tvg-name="Драйв ТВ",Драйв
+http://192.168.118.1:3128/udp/233.99.64.174:1234
+#EXTINF:0 tvg-name="Бокс ТВ",Бокс ТВ
+http://192.168.118.1:3128/udp/233.99.64.175:1234
+#EXTINF:0 tvg-name="Viasat Sport",Viasat Sport
+http://192.168.118.1:3128/udp/233.99.64.171:1234
+#EXTINF:0 tvg-name="Viasat Golf",Viasat Golf
+http://192.168.118.1:3128/udp/233.99.64.172:1234
+#EXTINF:0 tvg-name="КХЛ-ТВ",КХЛ
+http://192.168.118.1:3128/udp/239.255.10.154:5500
+
+#EXTINF:0 tvg-name="Домашний",Домашний
+http://192.168.118.1:3128/udp/233.99.64.9:1234
+#EXTINF:0 tvg-name="Звезда",Звезда
+http://192.168.118.1:3128/udp/233.99.64.209:1234
+#EXTINF:0 tvg-name="Карусель",Карусель
+http://192.168.118.1:3128/udp/233.99.64.61:1234
+#EXTINF:0 tvg-name="МИР",Мир
+http://192.168.118.1:3128/udp/233.99.64.210:1234
+#EXTINF:0 tvg-name="МУЗ-ТВ",МУЗ ТВ
+http://192.168.118.1:3128/udp/233.99.64.35:1234
+#EXTINF:0 tvg-name="НТВ",НТВ
+http://192.168.118.1:3128/udp/233.99.64.25:1234
+#EXTINF:0 tvg-name="ОТР",ОТР
+http://192.168.118.1:3128/udp/233.99.64.169:1234
+#EXTINF:0 tvg-name="Первый канал",Первый канал
+http://192.168.118.1:3128/udp/233.99.64.39:1234
+#EXTINF:0 tvg-name="Пятый Канал",5 канал
+http://192.168.118.1:3128/udp/233.99.64.27:1234
+#EXTINF:0 tvg-name="Пятница",Пятница
+http://192.168.118.1:3128/udp/233.99.64.16:1234
+#EXTINF:0 tvg-name="РЕН ТВ",РЕН ТВ
+http://192.168.118.1:3128/udp/233.99.64.26:1234
+#EXTINF:0 tvg-name="Россия 1",Россия 1
+http://192.168.118.1:3128/udp/233.99.64.40:1234
+#EXTINF:0 tvg-name="Россия 24",Россия 24
+http://192.168.118.1:3128/udp/239.255.10.46:5500
+#EXTINF:0 tvg-name="Россия Культура",Россия Культура
+http://192.168.118.1:3128/udp/233.99.64.11:1234 
+#EXTINF:0 tvg-name="Спас ТВ",Спас
+http://192.168.118.1:3128/udp/233.99.64.192:1234
+#EXTINF:0 tvg-name="СТС",СТС
+http://192.168.118.1:3128/udp/233.99.64.28:1234
+#EXTINF:0 tvg-name="ТВ-3",ТВ-3
+http://192.168.118.1:3128/udp/233.99.64.13:1234
+#EXTINF:0 tvg-name="ТВЦ",ТВЦ
+http://192.168.118.1:3128/udp/233.99.64.12:1234
+#EXTINF:0 tvg-name="ТНТ",ТНТ
+http://192.168.118.1:3128/udp/233.99.64.64:1234
+
+#EXTINF:0 tvg-name="Russia Today",Russia Today
+http://192.168.118.1:3128/udp/233.99.64.42:1234
+#EXTINF:0 tvg-name="Известия",Известия
+http://192.168.118.1:3128/udp/233.99.64.240:1234
+#EXTINF:0 tvg-name="Deutsche Welle",Deutsche Welle
+http://192.168.118.1:3128/udp/239.255.10.17:5500
+#EXTINF:0 tvg-name="France 24",France 24
+http://192.168.118.1:3128/udp/233.99.64.53:1234
+#EXTINF:0 tvg-name="Shopping Live",Shopping Live
+http://192.168.118.1:3128/udp/233.99.64.48:1234
+#EXTINF:0 tvg-name="EuroNews",Euronews
+http://192.168.118.1:3128/udp/233.99.64.57:1234
+#EXTINF:0 tvg-name="",Евроновости
+http://192.168.118.1:3128/udp/233.99.64.114:1234
+#EXTINF:0 tvg-name="МИР 24",Мир 24
+http://192.168.118.1:3128/udp/233.99.64.193:1234
+#EXTINF:0 tvg-name="РБК",РБК
+http://192.168.118.1:3128/udp/233.99.64.51:1234
+#EXTINF:0 tvg-name="CNN International",CNN
+http://192.168.118.1:3128/udp/233.99.64.38:1234 
+#EXTINF:0 tvg-name="Дождь",Дождь
+http://192.168.118.1:3128/udp/233.99.64.194:1234
+#EXTINF:0 tvg-name="BBC World",BBC World News
+http://192.168.118.1:3128/udp/239.255.10.6:5500
+#EXTINF:0 tvg-name="Bloomberg", Bloomberg
+http://192.168.118.1:3128/udp/233.99.64.45:1234
+
+#EXTINF:0 tvg-name="TLC",TLC
+http://192.168.118.1:3128/udp/239.255.10.152:5500
+#EXTINF:0 tvg-name="World Fashion Channel (рус.)",World Fashion
+http://192.168.118.1:3128/udp/239.255.10.12:5500
+#EXTINF:0 tvg-name="Живи",Живи
+http://192.168.118.1:3128/udp/233.99.64.133:1234
+#EXTINF:0 tvg-name="МИР HD",Мир HD
+http://192.168.118.1:3128/udp/233.99.64.102:1234
+#EXTINF:0 tvg-name="Канал 2x2",2X2
+http://192.168.118.1:3128/udp/239.255.10.41:5500
+#EXTINF:0 tvg-name="Shop24",Shop24
+http://192.168.118.1:3128/udp/233.99.64.111:1234
+#EXTINF:0 tvg-name="",Shop and Show
+http://192.168.118.1:3128/udp/233.99.64.63:1234
+#EXTINF:0 tvg-name="",Дисконт ТВ
+http://192.168.118.1:3128/udp/239.255.10.119:5500
+#EXTINF:0 tvg-name="Санкт-Петербург",Санкт-Петербург
+http://192.168.118.1:3128/udp/233.99.64.18:1234
+#EXTINF:0 tvg-name="Lifenews 78",78
+http://192.168.118.1:3128/udp/233.99.64.23:1234
+#EXTINF:0 tvg-name="Жара",Жара
+http://192.168.118.1:3128/udp/233.99.64.134:1234
+#EXTINF:0 tvg-name="Кухня ТВ",Кухня ТВ
+http://192.168.118.1:3128/udp/233.99.64.131:1234
+#EXTINF:0 tvg-name="47 канал",47 канал
+http://192.168.118.1:3128/udp/233.99.64.47:1234
+#EXTINF:0 tvg-name="Ностальгия",Ностальгия
+http://192.168.118.1:3128/udp/233.99.64.132:1234 
+#EXTINF:0 tvg-name="ТНТ4",ТНТ4
+http://192.168.118.1:3128/udp/233.99.64.91:1234
+#EXTINF:0 tvg-name="Че",Че
+http://192.168.118.1:3128/udp/239.255.10.183:5500
+#EXTINF:0 tvg-name="Ю",Ю
+http://192.168.118.1:3128/udp/233.99.64.15:1234
+#EXTINF:0 tvg-name="",Ювелирочка
+http://192.168.118.1:3128/udp/233.99.64.55:1234
+#EXTINF:0 tvg-name="Melody Zen TV",myZen TV
+http://192.168.118.1:3128/udp/233.99.64.125:1234
+#EXTINF:0 tvg-name="MTV Music",MTV
+http://192.168.118.1:3128/udp/233.99.64.129:1234
+#EXTINF:0 tvg-name="Paramount Comedy",Paramount Comedy
+http://192.168.118.1:3128/udp/233.99.64.101:1234
+#EXTINF:0 tvg-name="КВН ТВ",КВН
+http://192.168.118.1:3128/udp/233.99.64.94:1234
+#EXTINF:0 tvg-name="Сарафан ТВ",Сарафан
+http://192.168.118.1:3128/udp/239.255.10.112:5500
+#EXTINF:0 tvg-name="ЕДА",Еда
+http://192.168.118.1:3128/udp/233.99.64.130:1234
+#EXTINF:0 tvg-name="Fashion TV",Fashion TV Network
+http://192.168.118.1:3128/udp/239.255.10.35:5500
+#EXTINF:0 tvg-name="Открытый Мир",Открытый мир
+http://192.168.118.1:3128/udp/233.99.64.159:1234
+#EXTINF:0 tvg-name="Теледом",Теледом
+http://192.168.118.1:3128/udp/233.99.64.121:1234
+
+#EXTINF:0 tvg-name="National Geographic",National Geographic
+http://192.168.118.1:3128/udp/233.99.64.151:1234
+#EXTINF:0 tvg-name="Бобер",Бобёр
+http://192.168.118.1:3128/udp/233.99.64.156:1234
+#EXTINF:0 tvg-name="Animal Planet",Animal Planet
+http://192.168.118.1:3128/udp/239.255.10.51:5500
+#EXTINF:0 tvg-name="Discovery Channel",Discovery 
+http://192.168.118.1:3128/udp/233.99.64.138:1234
+#EXTINF:0 tvg-name="Russia Today Doc (RT Doc)",Russia Today Doc
+http://192.168.118.1:3128/udp/233.99.64.153:1234 
+#EXTINF:0 tvg-name="",В мире животных
+http://192.168.118.1:3128/udp/233.99.64.245:1234
+#EXTINF:0 tvg-name="Охотник и рыболов",Охотник и рыболов
+http://192.168.118.1:3128/udp/239.255.10.147:5500
+#EXTINF:0 tvg-name="Приключения HD",Приключения
+http://192.168.118.1:3128/udp/233.99.64.243:1234
+#EXTINF:0 tvg-name="Твой Дом",Твой дом
+http://192.168.118.1:3128/udp/233.99.64.158:1234
+#EXTINF:0 tvg-name="24 Техно",24 Техно
+http://192.168.118.1:3128/udp/233.99.64.154:1234
+#EXTINF:0 tvg-name="Da Vinci",Da Vinci Learning
+http://192.168.118.1:3128/udp/239.255.10.191:5500
+#EXTINF:0 tvg-name="Viasat Explorer",Viasat Explore
+http://192.168.118.1:3128/udp/239.255.10.3:5500
+#EXTINF:0 tvg-name="Viasat History",Viasat History
+http://192.168.118.1:3128/udp/233.99.64.148:1234
+#EXTINF:0 tvg-name="Viasat Nature CEE",Viasat Nature
+http://192.168.118.1:3128/udp/239.255.10.190:5500
+#EXTINF:0 tvg-name="Загородная жизнь",Загородная жизнь
+http://192.168.118.1:3128/udp/233.99.64.145:1234
+#EXTINF:0 tvg-name="История",История
+http://192.168.118.1:3128/udp/233.99.64.152:1234
+#EXTINF:0 tvg-name="Кто есть кто",Кто есть кто
+http://192.168.118.1:3128/udp/233.99.64.143:1234
+#EXTINF:0 tvg-name="Мама",Мама
+http://192.168.118.1:3128/udp/239.255.10.114:5500
+#EXTINF:0 tvg-name="Моя Планета",Моя Планета
+http://192.168.118.1:3128/udp/233.99.64.165:1234
+#EXTINF:0 tvg-name="Наука 2.0",Наука 2.0
+http://192.168.118.1:3128/udp/239.255.10.130:5500
+#EXTINF:0 tvg-name="",Первый вегетарианский
+http://192.168.118.1:3128/udp/233.99.64.229:1234
+#EXTINF:0 tvg-name="Совершенно Секретно",Совершенно секретно
+http://192.168.118.1:3128/udp/233.99.64.157:1234
+#EXTINF:0 tvg-name="Nat Geo WILD",Nat Geo Wild
+http://192.168.118.1:3128/udp/233.99.64.141:1234
+#EXTINF:0 tvg-name="English Club TV",English Club TV
+http://192.168.118.1:3128/udp/233.99.64.147:1234
+#EXTINF:0 tvg-name="Доктор",Доктор
+http://192.168.118.1:3128/udp/233.99.64.227:1234
+#EXTINF:0 tvg-name="DTX",DTX
+http://192.168.118.1:3128/udp/233.99.64.140:1234
+#EXTINF:0 tvg-name="Дикая Рыбалка HD",Дикая рыбалка
+http://192.168.118.1:3128/udp/233.99.64.232:1234
+#EXTINF:0 tvg-name="Оружие",Оружие
+http://192.168.118.1:3128/udp/239.255.10.92:5500
+#EXTINF:0 tvg-name="Discovery Science",Discovery Science
+http://192.168.118.1:3128/udp/233.99.64.139:1234
+#EXTINF:0 tvg-name="DocuBox HD",DocuBox
+http://192.168.118.1:3128/udp/233.99.64.161:1234
+#EXTINF:0 tvg-name="Museum HD",Museum
+http://192.168.118.1:3128/udp/233.99.64.162:1234
+#EXTINF:0 tvg-name="RTG HD",RTG
+http://192.168.118.1:3128/udp/239.255.10.82:5500
+#EXTINF:0 tvg-name="Travel+Adventure",Travel and Adventure
+http://192.168.118.1:3128/udp/239.255.10.34:5500
+#EXTINF:0 tvg-name="Galaxy TV",Galaxy
+http://192.168.118.1:3128/udp/233.99.64.163:1234
+#EXTINF:0 tvg-name="Живая планета",Живая планета
+http://192.168.118.1:3128/udp/233.99.64.228:1234
+#EXTINF:0 tvg-name="Поехали!",Поехали
+http://192.168.118.1:3128/udp/233.99.64.230:1234
+#EXTINF:0 tvg-name="Морской",Морской
+http://192.168.118.1:3128/udp/233.99.64.170:1234
+#EXTINF:0 tvg-name="Дикая Охота HD",Дикая Охота
+http://192.168.118.1:3128/udp/233.99.64.231:1234
+#EXTINF:0 tvg-name="Eureka HD",Eureka
+http://192.168.118.1:3128/udp/239.255.10.200:5500
+
+#EXTINF:0 tvg-name="Союз",Союз
+http://192.168.118.1:3128/udp/233.99.64.104:1234
+
+#EXTINF:0 tvg-name="Fox HD",FOX
+http://192.168.118.1:3128/udp/233.99.64.67:1234
+#EXTINF:0 tvg-name="Русский Иллюзион",Русский иллюзион
+http://192.168.118.1:3128/udp/233.99.64.66:1234
+#EXTINF:0 tvg-name="Fox Life",FOX Life
+http://192.168.118.1:3128/udp/233.99.64.68:1234
+#EXTINF:0 tvg-name="TV1000 Action",TV 1000 Action
+http://192.168.118.1:3128/udp/233.99.64.88:1234
+#EXTINF:0 tvg-name="TV1000",TV 1000
+http://192.168.118.1:3128/udp/233.99.64.86:1234
+#EXTINF:0 tvg-name="TV1000 Русское кино",TB 1000 Русское кино
+http://192.168.118.1:3128/udp/233.99.64.83:1234
+#EXTINF:0 tvg-name="Кино ТВ",Кино ТВ
+http://192.168.118.1:3128/udp/239.255.10.97:5500
+#EXTINF:0 tvg-name="Русский роман",Русский Роман
+http://192.168.118.1:3128/udp/239.255.10.170:5500 
+#EXTINF:0 tvg-name="А2",A2
+http://192.168.118.1:3128/udp/233.99.64.72:1234
+#EXTINF:0 tvg-name="Cinema",Cinema
+http://192.168.118.1:3128/udp/233.99.64.90:1234
+#EXTINF:0 tvg-name="SONY Sci-Fi",Sony Sci-Fi
+http://192.168.118.1:3128/udp/233.99.64.70:1234
+#EXTINF:0 tvg-name="Zee TV",Zee TV
+http://192.168.118.1:3128/udp/239.255.10.113:5500
+#EXTINF:0 tvg-name="Дом кино",Дом Кино
+http://192.168.118.1:3128/udp/239.255.10.15:5500
+#EXTINF:0 tvg-name="Еврокино",Еврокино
+http://192.168.118.1:3128/udp/233.99.64.71:1234
+#EXTINF:0 tvg-name="Иллюзион +",Иллюзион+
+http://192.168.118.1:3128/udp/233.99.64.75:1234
+#EXTINF:0 tvg-name="Кинокомедия",Кинокомедия
+http://192.168.118.1:3128/udp/239.255.10.64:5500
+#EXTINF:0 tvg-name="КИНОСЕРИЯ",Киносерия
+http://192.168.118.1:3128/udp/239.255.10.133:5500
+#EXTINF:0 tvg-name="Наше Новое Кино",Наше новое кино
+http://192.168.118.1:3128/udp/239.255.10.73:5500
+#EXTINF:0 tvg-name="Настоящее Страшное ТВ",НСТ
+http://192.168.118.1:3128/udp/239.255.10.166:5500
+#EXTINF:0 tvg-name="СТС Love",CTC LOVE
+http://192.168.118.1:3128/udp/239.255.10.171:5500
+#EXTINF:0 tvg-name="Супер",Супер
+http://192.168.118.1:3128/udp/233.99.64.219:1234
+#EXTINF:0 tvg-name="Теленовелла",Теленовелла
+http://192.168.118.1:3128/udp/233.99.64.225:1234
+#EXTINF:0 tvg-name="Комедия",Комедия
+http://192.168.118.1:3128/udp/233.99.64.226:1234
+#EXTINF:0 tvg-name="AMC",AMC
+http://192.168.118.1:3128/udp/233.99.64.222:1234
+#EXTINF:0 tvg-name="Sony Turbo",Sony_Turbo
+http://192.168.118.1:3128/udp/233.99.64.223:1234
+#EXTINF:0 tvg-name="SONY ТВ",Sony
+http://192.168.118.1:3128/udp/233.99.64.69:1234
+#EXTINF:0 tvg-name="Amedia Hit",Amedia Hit
+http://192.168.118.1:3128/udp/233.99.64.79:1234
+#EXTINF:0 tvg-name="Amedia Premium",Amedia
+http://192.168.118.1:3128/udp/233.99.64.74:1234
+#EXTINF:0 tvg-name="А1",A1
+http://192.168.118.1:3128/udp/233.99.64.73:1234
+#EXTINF:0 tvg-name="MGM HD",MGM
+http://192.168.118.1:3128/udp/233.99.64.76:1234
+#EXTINF:0 tvg-name="Spike",Spike
+http://192.168.118.1:3128/udp/233.99.64.241:1234
+#EXTINF:0 tvg-name="Киносвидание",Киносвидание
+http://192.168.118.1:3128/udp/233.99.64.224:1234
+#EXTINF:0 tvg-name="Киносемья",Киносемья
+http://192.168.118.1:3128/udp/239.255.10.95:5500
+#EXTINF:0 tvg-name="Русский бестселлер",Русский бестселлер
+http://192.168.118.1:3128/udp/233.99.64.220:1234
+#EXTINF:0 tvg-name="ViP Comedy",ViP Comedy
+http://192.168.118.1:3128/udp/233.99.64.78:1234
+#EXTINF:0 tvg-name="ViP Megahit",ViP Megahit
+http://192.168.118.1:3128/udp/233.99.64.65:1234
+#EXTINF:0 tvg-name="ViP Premiere",ViP Premiere
+http://192.168.118.1:3128/udp/233.99.64.77:1234
+#EXTINF:0 tvg-name="Кинопремьера",Кинопремьера
+http://192.168.118.1:3128/udp/239.255.10.192:5500
+#EXTINF:0 tvg-name="Кинохит",Кинохит
+http://192.168.118.1:3128/udp/239.255.10.75:5500
+#EXTINF:0 tvg-name="Мужское кино",Мужское кино
+http://192.168.118.1:3128/udp/233.99.64.84:1234
+#EXTINF:0 tvg-name="Дом Кино Премиум",Дом Кино Премиум
+http://192.168.118.1:3128/udp/233.99.64.82:1234
+#EXTINF:0 tvg-name="Родное кино",Родное кино
+http://192.168.118.1:3128/udp/233.99.64.81:1234
+#EXTINF:0 tvg-name="Русский детектив",Русский детектив
+http://192.168.118.1:3128/udp/233.99.64.221:1234
+
+#EXTINF:0 tvg-name="Arirang TV",Arirang
+http://192.168.118.1:3128/udp/233.99.64.120:1234 
+#EXTINF:0 tvg-name="Kazakh TV",Kazakh TV
+http://192.168.118.1:3128/udp/233.99.64.203:1234 
+#EXTINF:0 tvg-name="Беларусь 24",Беларусь 24
+http://192.168.118.1:3128/udp/233.99.64.201:1234 
+#EXTINF:0 tvg-name="Интер+",Интер+
+http://192.168.118.1:3128/udp/233.99.64.200:1234
+#EXTINF:0 tvg-name="БСТ",БСТ
+http://192.168.118.1:3128/udp/233.99.64.202:1234
+#EXTINF:0 tvg-name="Майдан",Майдан
+http://192.168.118.1:3128/udp/233.99.64.196:1234
+#EXTINF:0 tvg-name="Татарстан - Новый Век",ТНВ Татарстан
+http://192.168.118.1:3128/udp/233.99.64.198:1234
+#EXTINF:0 tvg-name="ТНВ-планета",ТНВ Планета
+http://192.168.118.1:3128/udp/239.255.10.134:5500
+#EXTINF:0 tvg-name="NHK World TV",NHK World
+http://192.168.118.1:3128/udp/239.255.10.124:5500
+#EXTINF:0 tvg-name="",Грозный
+http://192.168.118.1:3128/udp/233.99.64.199:1234
+#EXTINF:0 tvg-name="",Шант Премиум
+http://192.168.118.1:3128/udp/233.99.64.195:1234
+#EXTINF:0 tvg-name="Das Erste",Das Erste
+http://192.168.118.1:3128/udp/233.99.64.95:1234
+#EXTINF:0 tvg-name="",Al Jazeera
+http://192.168.118.1:3128/udp/233.99.64.37:1234 
+#EXTINF:0 tvg-name="",CGTN
+http://192.168.118.1:3128/udp/233.99.64.46:1234
+#EXTINF:0 tvg-name="CNBC",CNBC  
+http://192.168.118.1:3128/udp/233.99.64.98:1234
+#EXTINF:0 tvg-name="TV5",TV5 Monde
+http://192.168.118.1:3128/udp/233.99.64.56:1234
+#EXTINF:0 tvg-name="",TVE
+http://192.168.118.1:3128/udp/233.99.64.87:1234
+#EXTINF:0 tvg-name="",JSTV
+http://192.168.118.1:3128/udp/233.99.64.112:1234
+#EXTINF:0 tvg-name="",RTP
+http://192.168.118.1:3128/udp/233.99.64.212:1234
+#EXTINF:0 tvg-name="",CCTV-4
+http://192.168.118.1:3128/udp/233.99.64.96:1234
+#EXTINF:0 tvg-name="",Rai-1
+http://192.168.118.1:3128/udp/233.99.64.115:1234
+#EXTINF:0 tvg-name="",JiangSu TV
+http://192.168.118.1:3128/udp/233.99.64.248:1234
+#EXTINF:0 tvg-name="",Phoenix Info News
+http://192.168.118.1:3128/udp/233.99.64.249:1234
+#EXTINF:0 tvg-name="",NTDTV
+http://192.168.118.1:3128/udp/233.99.64.251:1234
+
+#EXTINF:0 tvg-name="О!",O!
+http://192.168.118.1:3128/udp/233.99.64.233:1234
+#EXTINF:0 tvg-name="Радость Моя",Радость моя
+http://192.168.118.1:3128/udp/239.255.10.123:5500
+#EXTINF:0 tvg-name="Disney Channel",Disney
+http://192.168.118.1:3128/udp/233.99.64.17:1234
+#EXTINF:0 tvg-name="Gulli",Gulli
+http://192.168.118.1:3128/udp/233.99.64.180:1234
+#EXTINF:0 tvg-name="JimJam",JimJam
+http://192.168.118.1:3128/udp/239.255.10.80:5500
+#EXTINF:0 tvg-name="Nickelodeon",Nickelodeon
+http://192.168.118.1:3128/udp/239.255.10.13:5500
+#EXTINF:0 tvg-name="Tiji",TiJi
+http://192.168.118.1:3128/udp/239.255.10.90:5500
+#EXTINF:0 tvg-name="Детский канал",Детский
+http://192.168.118.1:3128/udp/233.99.64.126:1234
+#EXTINF:0 tvg-name="Мульт",Мульт
+http://192.168.118.1:3128/udp/239.255.10.49:5500
+#EXTINF:0 tvg-name="Мультимузыка",Мультимузыка
+http://192.168.118.1:3128/udp/233.99.64.150:1234
+#EXTINF:0 tvg-name="Cartoon Network",Cartoon Network
+http://192.168.118.1:3128/udp/239.255.10.37:5500
+#EXTINF:0 tvg-name="Baby TV",Baby TV
+http://192.168.118.1:3128/udp/233.99.64.183:1234
+#EXTINF:0 tvg-name="Рыжий",Рыжий
+http://192.168.118.1:3128/udp/239.255.10.140:5500
+#EXTINF:0 tvg-name="Nickelodeon HD",Nickelodeon HD
+http://192.168.118.1:3128/udp/233.99.64.181:1234
+#EXTINF:0 tvg-name="Тлум HD",Тлум
+http://192.168.118.1:3128/udp/233.99.64.155:1234
+#EXTINF:0 tvg-name="Ani",Ani
+http://192.168.118.1:3128/udp/239.255.10.8:5500
+#EXTINF:0 tvg-name="Boomerang",Boomerang
+http://192.168.118.1:3128/udp/233.99.64.184:1234
+#EXTINF:0 tvg-name="Nick Jr",Nick Jr
+http://192.168.118.1:3128/udp/233.99.64.178:1234
+#EXTINF:0 tvg-name="Детский мир",Детский мир
+http://192.168.118.1:3128/udp/239.255.10.18:5500
+
+#EXTINF:0 tvg-name="Hustler HD",Hustler
+http://192.168.118.1:3128/udp/239.255.10.150:5500
+#EXTINF:0 tvg-name="French Lover",French Lover TV
+http://192.168.118.1:3128/udp/233.99.64.205:1234 
+#EXTINF:0 tvg-name="",Private
+http://192.168.118.1:3128/udp/233.99.64.204:1234
+#EXTINF:0 tvg-name="O-la-la",O-la-la
+http://192.168.118.1:3128/udp/233.99.64.206:1234
+
+#EXTINF:0 tvg-name="Bridge TV",Bridge TV
+http://192.168.118.1:3128/udp/233.99.64.108:1234 
+#EXTINF:0 tvg-name="Rusong TV",Bridge TV Русский Хит
+http://192.168.118.1:3128/udp/233.99.64.118:1234 
+#EXTINF:0 tvg-name="Europa Plus TV",Europa Plus TV
+http://192.168.118.1:3128/udp/233.99.64.191:1234 
+#EXTINF:0 tvg-name="MUSIC Box TV",Musicbox 
+http://192.168.118.1:3128/udp/239.255.10.87:5500
+#EXTINF:0 tvg-name="RU.TV",RU TV
+http://192.168.118.1:3128/udp/233.99.64.110:1234
+#EXTINF:0 tvg-name="VH1 Classic",VH1 Classic
+http://192.168.118.1:3128/udp/233.99.64.188:1234
+#EXTINF:0 tvg-name="Ля-Минор",Ля Минор
+http://192.168.118.1:3128/udp/233.99.64.236:1234
+#EXTINF:0 tvg-name="Наше ТВ",Наше ТВ
+http://192.168.118.1:3128/udp/233.99.64.237:1234
+#EXTINF:0 tvg-name="О2ТВ",О2
+http://192.168.118.1:3128/udp/233.99.64.43:1234
+#EXTINF:0 tvg-name="ТНТ Music",ТНТ Music
+http://192.168.118.1:3128/udp/233.99.64.105:1234
+#EXTINF:0 tvg-name="Mezzo Live HD",Mezzo Live
+http://192.168.118.1:3128/udp/239.255.10.28:5500
+#EXTINF:0 tvg-name="MTV Live HD",MTV Live
+http://192.168.118.1:3128/udp/233.99.64.187:1234
+#EXTINF:0 tvg-name="Шансон ТВ",Шансон ТВ
+http://192.168.118.1:3128/udp/239.255.10.111:5500
+#EXTINF:0 tvg-name="Russian Music Box",Russian Music Box
+http://192.168.118.1:3128/udp/233.99.64.107:1234 
+#EXTINF:0 tvg-name="MCM Top",MCM Top
+http://192.168.118.1:3128/udp/233.99.64.215:1234
